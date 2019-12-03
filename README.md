@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails＋ActiveMailerで、HerokuのSendGridを利用して、メール送信するサンプルプログラム
 
-Things you may want to cover:
+Ubuntu 16.04
+Ruby  2.5.1p57
+Rails 5.2.4
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
